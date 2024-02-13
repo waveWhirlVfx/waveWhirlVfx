@@ -2,7 +2,7 @@
 👀 I’m interested in creating stunning visual effects using Houdini software.
 🌱 I’m currently learning advanced techniques in Houdini VEX scripting and Python for pipeline Development.
 💞️ I’m looking to collaborate on exciting VFX projects that push the boundaries of creativity.
-📫 How to reach me: vashistanshul.7@gmail.com
+📫 How to reach me: vashistanshul.7@gmail.com, https://www.youtube.com/@waveWhirlVfx , https://www.linkedin.com/in/av-0001/
 😄 Pronouns: He/Him
 ⚡ Fun fact: I'm an Artist But I love Coding.
 
